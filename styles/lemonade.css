@@ -1,0 +1,27 @@
+#ad{
+    text-align:center;
+}
+#le{
+    text-align: center;
+    margin-left: 18px;
+}
+#su{
+    text-align: center;
+    margin-left: 57px;
+}
+#ic{
+    text-align: center;
+    margin-left: 25px;
+}
+#butt{   
+	text-align: center;
+}
+#money{
+	text-align: center;
+}
+#iCup{
+	text-align: center;
+}
+.yellow{
+    background-color: yellow;
+}
