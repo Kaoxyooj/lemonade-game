@@ -496,7 +496,7 @@ myButton.onclick = function (){
     currentTemp = temperature();
     console.log(currentTemp+ " degrees");
 
-    if (day >= 7) {
+    if (day > 7) {
         console.log("You have a total of $" + finalMoney + " after 7 days!");
         rePlay()
         window.location.reload();
